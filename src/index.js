@@ -1,12 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import Header from './Header';
+import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-import { robots } from './robots';
-import { bigpic } from './robots';
+
 
 ReactDOM.render(
 

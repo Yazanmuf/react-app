@@ -60,11 +60,3 @@ export const robots = [
     email: 'Rey.Padberg@karina.biz'
   }
 ];
-
-export const bigpic = [
-  {
-    company: 'FGE',
-    date: 'Jan 1st',
-    username: 'Bret',
-  }
-  ]
